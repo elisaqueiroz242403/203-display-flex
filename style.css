@@ -31,5 +31,16 @@ header{
     background-position: center;
     border-bottom: 10px black solid;
 }
+ 
+footer{
+    height: 200px;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
 
 
